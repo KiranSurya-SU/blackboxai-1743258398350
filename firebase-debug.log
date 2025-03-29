@@ -1,0 +1,23 @@
+[debug] [2025-03-29T12:57:18.069Z] ----------------------------------------------------------------------
+[debug] [2025-03-29T12:57:18.070Z] Command:       /usr/local/bin/firebase /root/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase login
+[debug] [2025-03-29T12:57:18.071Z] CLI Version:   14.0.1
+[debug] [2025-03-29T12:57:18.071Z] Platform:      linux
+[debug] [2025-03-29T12:57:18.071Z] Node Version:  v20.18.2
+[debug] [2025-03-29T12:57:18.071Z] Time:          Sat Mar 29 2025 12:57:18 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-03-29T12:57:18.071Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-03-29T12:57:18.072Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2025-03-29T12:57:18.248Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2025-03-29T12:57:18.249Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2025-03-29T14:07:17.480Z] ----------------------------------------------------------------------
+[debug] [2025-03-29T14:07:17.482Z] Command:       /usr/local/bin/firebase /root/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase login
+[debug] [2025-03-29T14:07:17.483Z] CLI Version:   14.0.1
+[debug] [2025-03-29T14:07:17.483Z] Platform:      linux
+[debug] [2025-03-29T14:07:17.483Z] Node Version:  v20.18.2
+[debug] [2025-03-29T14:07:17.483Z] Time:          Sat Mar 29 2025 14:07:17 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-03-29T14:07:17.483Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
